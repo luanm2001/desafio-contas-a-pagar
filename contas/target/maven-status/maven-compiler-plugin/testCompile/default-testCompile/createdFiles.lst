@@ -1,0 +1,5 @@
+com/project/contas/domain/ContaTest.class
+com/project/contas/infrastructure/config/SecurityConfigTest.class
+com/project/contas/presentation/controllers/ContaControllerTest.class
+com/project/contas/ContasApplicationTests.class
+com/project/contas/application/service/ContaServiceImplTest.class

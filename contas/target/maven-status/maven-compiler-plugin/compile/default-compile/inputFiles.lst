@@ -1,0 +1,13 @@
+/home/luan/contas/src/main/java/com/project/contas/ContasApplication.java
+/home/luan/contas/src/main/java/com/project/contas/application/service/ContaService.java
+/home/luan/contas/src/main/java/com/project/contas/application/service/ContaServiceImpl.java
+/home/luan/contas/src/main/java/com/project/contas/domain/Conta.java
+/home/luan/contas/src/main/java/com/project/contas/domain/enums/SituacaoContaEnum.java
+/home/luan/contas/src/main/java/com/project/contas/domain/repository/ContaRepository.java
+/home/luan/contas/src/main/java/com/project/contas/dto/AtualizarSituacaoContaDTO.java
+/home/luan/contas/src/main/java/com/project/contas/dto/CadastrarContaCSV.java
+/home/luan/contas/src/main/java/com/project/contas/dto/CadastrarContaDTO.java
+/home/luan/contas/src/main/java/com/project/contas/dto/ContaDTO.java
+/home/luan/contas/src/main/java/com/project/contas/infrastructure/ContaRepositoryJpa.java
+/home/luan/contas/src/main/java/com/project/contas/infrastructure/config/SecurityConfig.java
+/home/luan/contas/src/main/java/com/project/contas/presentation/controllers/ContaController.java

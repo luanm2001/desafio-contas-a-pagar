@@ -1,0 +1,5 @@
+/home/luan/contas/src/test/java/com/project/contas/ContasApplicationTests.java
+/home/luan/contas/src/test/java/com/project/contas/application/service/ContaServiceImplTest.java
+/home/luan/contas/src/test/java/com/project/contas/domain/ContaTest.java
+/home/luan/contas/src/test/java/com/project/contas/infrastructure/config/SecurityConfigTest.java
+/home/luan/contas/src/test/java/com/project/contas/presentation/controllers/ContaControllerTest.java

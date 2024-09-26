@@ -1,0 +1,13 @@
+com/project/contas/ContasApplication.class
+com/project/contas/domain/Conta.class
+com/project/contas/presentation/controllers/ContaController.class
+com/project/contas/dto/AtualizarSituacaoContaDTO.class
+com/project/contas/dto/CadastrarContaDTO.class
+com/project/contas/application/service/ContaServiceImpl.class
+com/project/contas/infrastructure/config/SecurityConfig.class
+com/project/contas/domain/enums/SituacaoContaEnum.class
+com/project/contas/dto/CadastrarContaCSV.class
+com/project/contas/domain/repository/ContaRepository.class
+com/project/contas/infrastructure/ContaRepositoryJpa.class
+com/project/contas/application/service/ContaService.class
+com/project/contas/dto/ContaDTO.class
